@@ -1,4 +1,4 @@
-# Fine-tune-Wav2Vec2
+# Fine-Tune-Wav2Vec2
 
 Fine-tune Wav2Vec 2.0 for speech emotion classification.
 
